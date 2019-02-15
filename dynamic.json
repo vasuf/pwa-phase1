@@ -1,0 +1,53 @@
+{
+	"profile":{
+
+	"img":"vasu.jpg",
+	"name":"vasu ganesh",
+	"roll":"122355",
+	"place":"kakainada",
+	"contact":"9010781957"
+     },
+     "career":{
+     	"info":"i want to seek in a good position"
+     },
+     "education":[
+     	{
+     		"sno":"1",
+     		"degree":"b.tech",
+     		"institute":"pragati",
+     		"per":"86",
+     		"yop":"2020"
+
+     	},
+     	{
+     		"sno":"2",
+     		"degree":"intermediate",
+     		"institute":"pragati",
+     		"per":"90",
+     		"yop":"2016"
+
+     	},
+     	{
+     		"sno":"3",
+     		"degree":"10th",
+     		"institute":"bhanu",
+     		"per":"86",
+     		"yop":"2014"
+
+     	}
+     ],
+     "languages":[
+     	{
+     		"lang":"english"
+     	},
+     	{
+     		"lang":"telugu"
+     	},
+     	{
+     		"lang":"hindi"
+     	}
+     ]
+
+
+
+}
